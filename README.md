@@ -1,4 +1,4 @@
-- 👋 Hi, I’m `@iDCoded`
+- 👋 Hey there, I am Dhruv a.k.a `@iDCoded`
 - 👀 I’m interested in everything related to **Computers and Programming**.
 - 🌱 I’m currently learning _Game Development_
 - 📫 Email : ananddhruv29@gmail.com
