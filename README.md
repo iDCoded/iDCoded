@@ -5,6 +5,9 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=idcoded" alt="idcoded" /></a> </p>
 
+<p>Might as well follow me and <b>Star</b> my projects</p>
+<img align='center' alt="GitHub followers" src="https://img.shields.io/github/followers/iDCoded?style=for-the-badge">
+
 - 🔭 I’m currently working on [D-Pad](https://github.com/iDCoded/D-Pad)
 
 - 📫 How to reach me **ananddhruv29@gmail.com**
