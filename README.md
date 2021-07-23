@@ -3,7 +3,11 @@
 
 ![New Project](https://user-images.githubusercontent.com/65074550/126744817-78f5c831-42c4-44d5-8442-2df6e5746d65.png)
 
+[![Dhruv's GitHub stats](https://github-readme-stats.vercel.app/api?username=iDCoded&show_icons=true&theme=onedark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=idcoded&theme=onedark&row=2&column=3" alt="idcoded" /></a> </p>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iDCoded&repo=D-Pad&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 <p>Might as well follow me and ⭐<b>Star</b>⭐ my projects</p>
 <img align='center' alt="GitHub followers" src="https://img.shields.io/github/followers/iDCoded?style=for-the-badge">
