@@ -5,11 +5,14 @@
 
 ---
 
-<p align="center"> <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=iDCoded&show_icons=true&theme=onedark" alt="dcoded stats" /> </a> </p>
+<!-- My GitHub Stats -->
+<p align="center"> <a href="https://github.com/iDCoded"> <img src="https://github-readme-stats.vercel.app/api?username=iDCoded&show_icons=true&theme=onedark" alt="dcoded stats" /> </a> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=idcoded&theme=onedark&row=2&column=3" alt="idcoded" /></a> </p>
+<!-- My Trophies -->
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=idcoded&theme=onedark&row=2&column=3" alt="idcoded trophies" /> </p>
 
-<p align="center"> <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=iDCoded&repo=D-Pad&theme=onedark" alt="d-pad" /> </a> </p>
+<!-- D-Pad Repository Stats -->
+<p align="center"> <a href="https://github.com/iDCoded/D-Pad"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=iDCoded&repo=D-Pad&theme=onedark" alt="d-pad" /> </a> </p>
 
 
 ---
