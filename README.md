@@ -18,7 +18,7 @@
 ---
  
 <p>Might as well follow me and ⭐<b>Star</b>⭐ my projects</p>
-<img align='center' alt="GitHub followers" src="https://github.com/iDCoded?tab=followers">
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/iDCoded?style=for-the-badge">
 
 ---
 
