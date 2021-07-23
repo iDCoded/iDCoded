@@ -3,7 +3,7 @@
 
 ![New Project](https://user-images.githubusercontent.com/65074550/126744817-78f5c831-42c4-44d5-8442-2df6e5746d65.png)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=idcoded" alt="idcoded" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=idcoded" alt="idcoded" /></a> </p>
 
 - 🔭 I’m currently working on [D-Pad](https://github.com/iDCoded/D-Pad)
 
