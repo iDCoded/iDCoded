@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhruv</h1>
-<h3 align="center">15 year old </h3>
+<h3 align="center">Aspiring 15 Year Old Programmer & Developer </h3>
 
 ![New Project](https://user-images.githubusercontent.com/65074550/126744817-78f5c831-42c4-44d5-8442-2df6e5746d65.png)
 
