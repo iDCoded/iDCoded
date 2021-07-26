@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dhruv</h1>
 <h3 align="center">Aspiring 15 Year Old Programmer & Developer </h3>
 
-![image](https://user-images.githubusercontent.com/65074550/126953002-83901752-1724-4e30-8563-3501a592b24b.png)
+![DCoded DP](https://user-images.githubusercontent.com/65074550/126991264-dad10d03-f1f1-4317-91ba-4c53e59c0112.gif)
 
 ---
 
