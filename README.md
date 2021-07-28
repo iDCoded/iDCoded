@@ -10,7 +10,7 @@
     "speaking": ["English", "Hindi"],
     "programming": ["Python", "C", "C#"],
   },
-  "hobbies" : ["Programming", "Developing Games", "Gaming", "Being Alone", "Cars"],
+  "hobbies" : ["Programming", "Computers", "Gaming", "Being Alone", "Cars"],
   "_comment": "Nothing can separate me from a computer."
 }
 ```
