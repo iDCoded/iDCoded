@@ -1,5 +1,20 @@
 <h1 align="center">Hi 👋, I'm Dhruv</h1>
-<h3 align="center">Aspiring 15 Year Old Programmer & Developer </h3>
+
+### `me.json`
+```json
+{
+  "name": "Dhruv",
+  "age": "15",
+  "country": "India",
+  "language": {
+    "speaking": ["English", "Hindi"],
+    "programming": ["Python", "C", "C#"],
+  },
+  "hobbies" : ["Programming", "Developing Games", "Gaming", "Being Alone", "Cars"],
+  "_comment": "Nothing can separate me from a computer."
+}
+```
+
 
 ![DCoded DP](https://user-images.githubusercontent.com/65074550/126991264-dad10d03-f1f1-4317-91ba-4c53e59c0112.gif)
 
