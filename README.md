@@ -24,7 +24,7 @@
 <p align="center"> <a href="https://github.com/iDCoded"> <img src="https://github-readme-stats.vercel.app/api?username=iDCoded&show_icons=true&theme=onedark" alt="dcoded stats" /> </a> </p>
 
 <!-- My Trophies -->
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=idcoded&theme=onedark&row=2&column=3" alt="idcoded trophies" /> </p>
+<p align="center"> <a href='https://github.com/iDCoded'><img src="https://github-profile-trophy.vercel.app/?username=idcoded&theme=onedark&row=2&column=3" alt="idcoded trophies" /> </a> </p>
 
 <!-- D-Pad Repository Stats -->
 <p align="center"> <a href="https://github.com/iDCoded/D-Pad"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=iDCoded&repo=D-Pad&theme=onedark" alt="d-pad" /> </a> </p>
