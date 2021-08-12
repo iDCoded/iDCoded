@@ -21,17 +21,17 @@
 ---
 
 <!-- My GitHub Stats -->
-<p align="center"> <a href="https://github.com/iDCoded"> <img src="https://github-readme-stats.vercel.app/api?username=iDCoded&show_icons=true&theme=onedark" alt="dcoded stats" /> </a> </p>
+<p align="center"> <a href="https://github.com/iDCoded"> <img src="https://github-readme-stats.vercel.app/api?username=iDCoded&show_icons=true&theme=onedark&hide_border=true" alt="dcoded stats" /> </a> </p>
 
 <!-- My GitHub Streaks  -->
 <p align="center" > <img src="http://github-readme-streak-stats.herokuapp.com?user=iDCoded&theme=onedark&hide_border=true" href="https://github.com/iDCoded"/> </p>
 <!-- [![My GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iDCoded&theme=nord&hide_border=true)](https://git.io/streak-stats) -->
 
 <!-- My Trophies -->
-<p align="center"> <a href='https://github.com/iDCoded'><img src="https://github-profile-trophy.vercel.app/?username=idcoded&theme=onedark&row=2&column=3" alt="idcoded trophies" /> </a> </p>
+<p align="center"> <a href='https://github.com/iDCoded'><img src="https://github-profile-trophy.vercel.app/?username=idcoded&theme=onedark&row=2&column=3&no-frame=true" alt="idcoded trophies" /> </a> </p>
 
 <!-- D-Pad Repository Stats -->
-<p align="center"> <a href="https://github.com/iDCoded/D-Pad"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=iDCoded&repo=D-Pad&theme=onedark" alt="d-pad" /> </a> </p>
+<p align="center"> <a href="https://github.com/iDCoded/D-Pad"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=iDCoded&repo=D-Pad&theme=onedark&hide_border=true" alt="d-pad" /> </a> </p>
 
 
 ---
