@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Dhruv</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=9AA6B2&size=32&center=true&vCenter=true&lines=Hi+%F0%9F%91%8B%2C+I'm+Dhruv)](https://git.io/typing-svg)
+
+
 
 ![DCoded DP](https://user-images.githubusercontent.com/65074550/126991264-dad10d03-f1f1-4317-91ba-4c53e59c0112.gif)
 
