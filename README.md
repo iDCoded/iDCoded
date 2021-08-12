@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dhruv</h1>
 
+![DCoded DP](https://user-images.githubusercontent.com/65074550/126991264-dad10d03-f1f1-4317-91ba-4c53e59c0112.gif)
+
 ### `me.json`
 ```json
 {
@@ -14,9 +16,6 @@
   "_comment": "Nothing can separate me from a computer."
 }
 ```
-
-
-![DCoded DP](https://user-images.githubusercontent.com/65074550/126991264-dad10d03-f1f1-4317-91ba-4c53e59c0112.gif)
 
 ---
 
@@ -33,6 +32,11 @@
 <!-- D-Pad Repository Stats -->
 <p align="center"> <a href="https://github.com/iDCoded/D-Pad"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=iDCoded&repo=D-Pad&theme=onedark&hide_border=true" alt="d-pad" /> </a> </p>
 
+---
+<!-- Isometric Commit Calender -->
+<p align='center'> <img src='https://metrics.lecoq.io/iDCoded?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia%2FKolkata' href='https://github.com/iDCoded' alt='Isometric Commit Calender'/> </p>
+
+<p align='center'> <img src='https://metrics.lecoq.io/iDCoded?template=terminal&base.community=0&base.repositories=0&base.metadata=0&config.timezone=Asia%2FKolkata' /> </p>
 
 ---
  
