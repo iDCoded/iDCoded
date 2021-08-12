@@ -23,6 +23,10 @@
 <!-- My GitHub Stats -->
 <p align="center"> <a href="https://github.com/iDCoded"> <img src="https://github-readme-stats.vercel.app/api?username=iDCoded&show_icons=true&theme=onedark" alt="dcoded stats" /> </a> </p>
 
+<!-- My GitHub Streaks  -->
+<p align="center" > <img src="http://github-readme-streak-stats.herokuapp.com?user=iDCoded&theme=onedark&hide_border=true" href="https://github.com/iDCoded"/> </p>
+<!-- [![My GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iDCoded&theme=nord&hide_border=true)](https://git.io/streak-stats) -->
+
 <!-- My Trophies -->
 <p align="center"> <a href='https://github.com/iDCoded'><img src="https://github-profile-trophy.vercel.app/?username=idcoded&theme=onedark&row=2&column=3" alt="idcoded trophies" /> </a> </p>
 
