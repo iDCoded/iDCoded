@@ -37,9 +37,6 @@
 ---
 <!-- Isometric Commit Calender -->
 <p align='center'> <img src='https://metrics.lecoq.io/iDCoded?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia%2FKolkata' href='https://github.com/iDCoded' alt='Isometric Commit Calender'/> </p>
-
-![Metrics](https://metrics.lecoq.io/iDCoded?template=terminal&base.community=0&base.repositories=0&base.metadata=0&config.timezone=Asia%2FKolkata)
-<!-- <p align='center'> <img src='https://metrics.lecoq.io/iDCoded?template=terminal&base.community=0&base.repositories=0&base.metadata=0&config.timezone=Asia%2FKolkata' /> </p> -->
 ---
  
 <p>Might as well follow me and ⭐<b>Star</b>⭐ my <a href='https://github.com/iDCoded?tab=repositories'>projects</a></p>
