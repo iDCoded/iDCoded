@@ -35,8 +35,12 @@
 <p align="center"> <a href="https://github.com/iDCoded/D-Pad"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=iDCoded&repo=D-Pad&theme=onedark&hide_border=true" alt="d-pad" /> </a> </p>
 
 ---
+<!-- Contributions -->
 <!-- Isometric Commit Calender -->
 <p align='center'> <img src='https://metrics.lecoq.io/iDCoded?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia%2FKolkata' href='https://github.com/iDCoded' alt='Isometric Commit Calender'/> </p>
+
+<!-- Activity Graph -->
+[![Dhruv's github activity graph](https://activity-graph.herokuapp.com/graph?username=iDCoded&area=true&hide_border=true&theme=github&bg_color=22272E)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
  
