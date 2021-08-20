@@ -31,6 +31,8 @@
 
 <!-- D-Pad Repository Stats -->
 <p align="center"> <a href="https://github.com/iDCoded/D-Pad"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=iDCoded&repo=D-Pad&theme=onedark&hide_border=true" alt="d-pad" /> </a> </p>
+<!-- Pomodoro Repo Stats -->
+<p align="center"> <a href="https://github.com/iDCoded/Pomodoro-App"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=iDCoded&repo=Pomodoro-App&theme=onedark&hide_border=true" alt="pomodoro app"> </a> </p>
 
 ---
 <!-- Contributions -->
