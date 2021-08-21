@@ -47,6 +47,9 @@
 <p>Might as well follow me and ⭐<b>Star</b>⭐ my <a href='https://github.com/iDCoded?tab=repositories'>projects</a></p>
 <a href='https://github.com/iDCoded?tab=followers'><img alt="GitHub followers" src="https://img.shields.io/github/followers/iDCoded?style=for-the-badge"></a>
 
+![GitHub Profile Views](https://komarev.com/ghpvc/?username=iDCoded&style=flat-square&color=282c34)
+
+
 ---
 
 
