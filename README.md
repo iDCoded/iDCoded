@@ -10,7 +10,7 @@
   "country": "India",
   "language": {
     "speaking": ["English", "Hindi"],
-    "programming": ["Python", "C", "C#"],
+    "programming": ["Python", "JavaScript", "C#"],
   },
   "hobbies" : ["Programming", "Computers", "Gaming", "Being Alone", "Cars"],
   "_comment": "Nothing can separate me from a computer."
