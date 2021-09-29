@@ -57,8 +57,6 @@
 
 - 📫 How to reach me **ananddhruv29@gmail.com**
 
-- ⚡ Fun fact **A naturally funny guy**
-
 ---
 
 <h3 align="left">Connect with me:</h3>
