@@ -57,7 +57,7 @@
 ---
 
 
-- 🔭 I’m currently working on [D-Pad](https://github.com/iDCoded/D-Pad)
+- 🔭 I’m currently working on [Drop Note](https://github.com/iDCoded/drop-note)
 
 - 📫 How to reach me **ananddhruv29@gmail.com**
 
