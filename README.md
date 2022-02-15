@@ -35,11 +35,11 @@
 <!-- StackOverflow Flair -->
 <!-- <p align="center"> <a href="https://stackoverflow.com/users/13818436/dhruv-anand"><img src="https://stackoverflow.com/users/flair/13818436.png?theme=dark" width="208" height="58" alt="profile for Dhruv Anand at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Dhruv Anand at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a> </p> -->
 
-
-<!-- D-Pad Repository Stats -->
+<!-- 
 <p align="center"> <a href="https://github.com/iDCoded/D-Pad"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=iDCoded&repo=D-Pad&theme=onedark&hide_border=true" alt="d-pad" /> </a> </p>
-<!-- Pomodoro Repo Stats -->
+
 <p align="center"> <a href="https://github.com/iDCoded/Pomodoro-App"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=iDCoded&repo=Pomodoro-App&theme=onedark&hide_border=true" alt="pomodoro app"> </a> </p>
+-->
 
 ---
 <!-- Contributions -->
