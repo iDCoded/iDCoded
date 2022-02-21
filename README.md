@@ -1,7 +1,8 @@
 <!-- SVG Typing Animation  -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=9AA6B2&size=32&center=true&vCenter=true&lines=Hi+%F0%9F%91%8B%2C+I'm+Dhruv)](https://git.io/typing-svg)
 
-![DCoded DP](https://user-images.githubusercontent.com/65074550/126991264-dad10d03-f1f1-4317-91ba-4c53e59c0112.gif)
+![DCoded DP darkmode](https://user-images.githubusercontent.com/65074550/126991264-dad10d03-f1f1-4317-91ba-4c53e59c0112.gif#gh-dark-mode-only)
+![lightmode-banner](https://user-images.githubusercontent.com/65074550/154921132-bce40455-d8e3-4ace-ba59-48855f65e1a5.gif#gh-light-mode-only)
 
 ### `me.json`
 ```json
