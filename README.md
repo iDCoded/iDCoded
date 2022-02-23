@@ -20,7 +20,7 @@
 
 ---
 <!-- Discord Presence  -->
-<p align="center"> <a href="https://discord.com/users/558680515796795412"> <img alt="Discord Presence" src="https://lanyard.cnrad.dev/api/558680515796795412"/> </a> </p>
+<!-- <p align="center"> <a href="https://discord.com/users/558680515796795412"> <img alt="Discord Presence" src="https://lanyard.cnrad.dev/api/558680515796795412"/> </a> </p> -->
 <!-- [![Discord Presence](https://lanyard.cnrad.dev/api/558680515796795412)](https://discord.com/users/558680515796795412) -->
 
 <!-- My GitHub Stats -->
