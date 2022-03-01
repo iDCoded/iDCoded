@@ -19,6 +19,8 @@ jobs:
           plugin_skyline_frames: 6
           plugin_skyline_quality: 1
           # WakaTime Plugin
+          filename: metrics.plugin.wakatime.svg
+          base: ""
           plugin_wakatime: yes
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
