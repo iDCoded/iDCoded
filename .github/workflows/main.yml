@@ -13,7 +13,12 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+          # SkyLine 
           plugin_skyline: yes
           plugin_skyline_year: 2022
           plugin_skyline_frames: 6
           plugin_skyline_quality: 1
+          # WakaTime Plugin
+          plugin_wakatime: yes
+          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
