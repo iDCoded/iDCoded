@@ -34,6 +34,9 @@
 <p align="center" > <img src="http://github-readme-streak-stats.herokuapp.com?user=iDCoded&theme=onedark&hide_border=true" href="https://github.com/iDCoded"/> </p>
 <!-- [![My GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iDCoded&theme=nord&hide_border=true)](https://git.io/streak-stats) -->
 
+<!-- Top Language Stats -->
+<p align="center"> <a href="https://github.com/iDCoded"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=idcoded&layout=compact&theme=onedark&hide_border=true" alt="Top Languages"> </a> </p>
+
 <!-- My Trophies -->
 <p align="center"> <a href='https://github.com/iDCoded'><img src="https://github-profile-trophy.vercel.app/?username=idcoded&theme=onedark&row=2&column=3&no-frame=true" alt="idcoded trophies" /> </a> </p>
 
