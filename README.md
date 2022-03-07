@@ -2,7 +2,7 @@
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=9AA6B2&size=32&center=true&vCenter=true&lines=%F0%9F%91%8B+Hi+%2C+I'm+Dhruv"> </p>
 <!-- [![Typing SVG]()](https://git.io/typing-svg) -->
 
-![DCoded DP darkmode](https://user-images.githubusercontent.com/65074550/126991264-dad10d03-f1f1-4317-91ba-4c53e59c0112.gif#gh-dark-mode-only)
+![DCoded Banner Darkmode](https://user-images.githubusercontent.com/65074550/156970537-7a5afee0-83cf-4899-877d-bc74879d1a97.gif#gh-dark-mode-only)
 ![lightmode-banner](https://user-images.githubusercontent.com/65074550/154921132-bce40455-d8e3-4ace-ba59-48855f65e1a5.gif#gh-light-mode-only)
 
 ### `me.json`
