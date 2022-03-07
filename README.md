@@ -49,7 +49,7 @@
 ---
 <!-- Contributions -->
 <!-- Isometric Commit Calender -->
-<p align='center'> <a href='https://github.com/iDCoded'><img src='https://metrics.lecoq.io/iDCoded?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia%2FKolkata' alt='Isometric Commit Calender'/> </a> </p>
+<!-- <p align='center'> <a href='https://github.com/iDCoded'><img src='https://metrics.lecoq.io/iDCoded?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia%2FKolkata' alt='Isometric Commit Calender'/> </a> </p> -->
 
 <!-- Activity Graph -->
 [![Dhruv's github activity graph](https://activity-graph.herokuapp.com/graph?username=iDCoded&area=true&hide_border=true&theme=github&bg_color=22272E)](https://github.com/iDCoded)
