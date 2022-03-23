@@ -15,5 +15,5 @@
             # Use this username's contribution graph  
             user_name: iDCoded
             # Text on contribution graph 
-            text: DCODED
+            text: DHRUV
        - uses: jasineri/simple-push-action@v1
