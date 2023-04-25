@@ -19,10 +19,9 @@
 }
 ```
 
----
-
-<!-- GitHub Actions : Metrics -->
+<!-- GitHub Actions : Metrics
 <p align="center"><img alt="iDCoded Metrics" src="/github-metrics.svg"></p>
+ -->
 <!-- GitArtWork  
 <p align="center"> <img alt="iDCoded Gitartwork" src="/gitartwork.svg"> </p>
 -->
@@ -59,30 +58,22 @@
 <!-- Isometric Commit Calender -->
 <!-- <p align='center'> <a href='https://github.com/iDCoded'><img src='https://metrics.lecoq.io/iDCoded?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia%2FKolkata' alt='Isometric Commit Calender'/> </a> </p> -->
 
-<!-- Activity Graph -->
+<!-- Activity Graph 
 [![Dhruv's github activity graph](https://activity-graph.herokuapp.com/graph?username=iDCoded&area=true&hide_border=true&theme=github&bg_color=22272E)](https://github.com/iDCoded)
+-->
 
----
- 
 <p>Might as well follow me and ⭐<b>Star</b>⭐ my <a href='https://github.com/iDCoded?tab=repositories'>projects</a></p>
-<a href='https://github.com/iDCoded?tab=followers'><img alt="GitHub followers" src="https://img.shields.io/github/followers/iDCoded?style=for-the-badge"></a>
 
+<a href='https://github.com/iDCoded?tab=followers'><img alt="GitHub followers" src="https://img.shields.io/github/followers/iDCoded?style=for-the-badge"></a>
 <!-- GitHub Profile Views -->
 <a href="https://github.com/iDCoded"> <img alt="Profile views" src="https://komarev.com/ghpvc/?username=iDCoded&style=social&color=282c34"> </a>
-
-
----
-
-
-- 🔭 I’m currently working on [Drop Note](https://github.com/iDCoded/drop-note)
-
-- 📫 How to reach me **ananddhruv29@gmail.com**
 
 ---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ananddhruv295" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ananddhruv295" height="30" width="40" /></a>
+<!-- <a href="https://twitter.com/ananddhruv295" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ananddhruv295" height="30" width="40" /></a> -->
+ 
   <a href='https://dev.to/ananddhruv295'> <img align="center" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="ananddhruv29 at dev.to"/> </a>
 </p>
 
