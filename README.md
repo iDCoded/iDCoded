@@ -15,7 +15,7 @@
     "speaking": ["English", "Hindi"],
     "programming": ["JavaScript", "TypeScript", "C#", "Python"],
   },
-  "hobbies" : ["Programming", "Computers", "Gaming", "Being Alone", "Cars"],
+  "hobbies" : ["Programming", "Computers", "Gaming", "Planes", "Cars"],
 }
 ```
 
